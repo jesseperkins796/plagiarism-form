@@ -1,0 +1,90 @@
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe.config
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.pdb
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.AssemblyReference.cache
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Properties.Resources.resources
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.GenerateResource.cache
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.CoreCompileInputs.cache
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.exe
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.pdb
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Main.resources
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase1.resources
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase2.resources
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase3.resources
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase4.resources
+F:\TRU\Winter 2024\Prog Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase5.resources
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe.config
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.pdb
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.AssemblyReference.cache
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Main.resources
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase1.resources
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase2.resources
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase3.resources
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase4.resources
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase5.resources
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Properties.Resources.resources
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.GenerateResource.cache
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.CoreCompileInputs.cache
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.exe
+D:\Projects\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.pdb
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe.config
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.pdb
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.AssemblyReference.cache
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Main.resources
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase1.resources
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase2.resources
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase3.resources
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase4.resources
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase5.resources
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Properties.Resources.resources
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.GenerateResource.cache
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.exe
+C:\Users\jesse\Downloads\Jesse_Perkins_T00636064_D-05 Case Report Assignment\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.pdb
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe.config
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.pdb
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.AssemblyReference.cache
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Main.resources
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase1.resources
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase2.resources
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase3.resources
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase4.resources
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase5.resources
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Properties.Resources.resources
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.GenerateResource.cache
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.exe
+C:\Users\jesse\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.pdb
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe.config
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.pdb
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.AssemblyReference.cache
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Main.resources
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase1.resources
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase2.resources
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase3.resources
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase4.resources
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase5.resources
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Properties.Resources.resources
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.GenerateResource.cache
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.CoreCompileInputs.cache
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.exe
+D:\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.pdb
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe.config
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.exe
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\bin\Debug\ED-05 Case Report Assignment.pdb
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.AssemblyReference.cache
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Main.resources
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase1.resources
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase2.resources
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase3.resources
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase4.resources
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Phase5.resources
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED_05_Case_Report_Assignment.Properties.Resources.resources
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.GenerateResource.cache
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.exe
+C:\Users\jesse\OneDrive\Documents\Archives\LEXAR Archive Oct 2024\Archives\TRU Winter 2024\Programming Methods\ED-05 Case Report Assignment\ED-05 Case Report Assignment\obj\Debug\ED-05 Case Report Assignment.pdb

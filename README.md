@@ -1,0 +1,1 @@
+This is a digital version of the TRU plagiarism form, completed during my COMP 2210 course. It is developed in Visual Studio using C#, and implements a Python script to search for key terms the users submitted to the form.
